@@ -1,0 +1,2986 @@
+{
+  "1": {
+    "ID": 1,
+    "TenSanPham": "Dây ethenet (LAN)",
+    "MaSanPham": "LAN",
+    "ThongSoSanPham": "CAT",
+    "ViTri": "A1.1",
+    "SoLuongSanPham": 47
+  },
+  "2": {
+    "ID": 2,
+    "TenSanPham": "Màn hình máy tiện CNC",
+    "MaSanPham": "MH",
+    "ThongSoSanPham": "Fanuc",
+    "ViTri": "A1.10",
+    "SoLuongSanPham": 1
+  },
+  "3": {
+    "ID": 3,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "A1.11",
+    "SoLuongSanPham": null
+  },
+  "4": {
+    "ID": 4,
+    "TenSanPham": "Ngàm cố định",
+    "MaSanPham": "NCD",
+    "ThongSoSanPham": null,
+    "ViTri": "A1.12",
+    "SoLuongSanPham": 1
+  },
+  "5": {
+    "ID": 5,
+    "TenSanPham": "Bộ điều khiển pa lăng",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "PL",
+    "ViTri": "A1.13",
+    "SoLuongSanPham": 1
+  },
+  "6": {
+    "ID": 6,
+    "TenSanPham": "Bo mạch máy tiện CNC",
+    "MaSanPham": "BOARD",
+    "ThongSoSanPham": "CNC",
+    "ViTri": "A1.14",
+    "SoLuongSanPham": 1
+  },
+  "7": {
+    "ID": 7,
+    "TenSanPham": "Bộ điều khiển servo 4 trục G-Code",
+    "MaSanPham": "BDK",
+    "ThongSoSanPham": "G-code",
+    "ViTri": "A1.15",
+    "SoLuongSanPham": 1
+  },
+  "8": {
+    "ID": 8,
+    "TenSanPham": "HMI tay dạy Proface",
+    "MaSanPham": "HMI",
+    "ThongSoSanPham": "Kiểu tay dạy",
+    "ViTri": "A1.16",
+    "SoLuongSanPham": 1
+  },
+  "9": {
+    "ID": 9,
+    "TenSanPham": "Bo mạch máy tính bàn",
+    "MaSanPham": "BOARD",
+    "ThongSoSanPham": "PC",
+    "ViTri": "A1.17",
+    "SoLuongSanPham": 1
+  },
+  "10": {
+    "ID": 10,
+    "TenSanPham": "Silicon",
+    "MaSanPham": "SLI",
+    "ThongSoSanPham": "Kinte",
+    "ViTri": "A1.18",
+    "SoLuongSanPham": 58
+  },
+  "11": {
+    "ID": 11,
+    "TenSanPham": "Máy mài khuôn Total - TG2006",
+    "MaSanPham": "MMK",
+    "ThongSoSanPham": "220V-200W",
+    "ViTri": "A1.19",
+    "SoLuongSanPham": 2
+  },
+  "12": {
+    "ID": 12,
+    "TenSanPham": "Biến tần Delta",
+    "MaSanPham": "BTAN",
+    "ThongSoSanPham": "D",
+    "ViTri": "A1.2",
+    "SoLuongSanPham": 1
+  },
+  "13": {
+    "ID": 13,
+    "TenSanPham": "Bộ làm mát dầu",
+    "MaSanPham": "BLM",
+    "ThongSoSanPham": "OIL",
+    "ViTri": "A1.3",
+    "SoLuongSanPham": 1
+  },
+  "14": {
+    "ID": 14,
+    "TenSanPham": "Động cơ băng tải chuyền sơn bột",
+    "MaSanPham": "MOTO",
+    "ThongSoSanPham": "2.2KW",
+    "ViTri": "A1.4",
+    "SoLuongSanPham": 1
+  },
+  "15": {
+    "ID": 15,
+    "TenSanPham": "Dây rút trắng 5x100 (100pcs)",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": "5x100",
+    "ViTri": "A1.5",
+    "SoLuongSanPham": 2
+  },
+  "16": {
+    "ID": 16,
+    "TenSanPham": "Dây rút trắng 5x250 (100pcs)",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": "5x250",
+    "ViTri": "A1.6",
+    "SoLuongSanPham": 3
+  },
+  "17": {
+    "ID": 17,
+    "TenSanPham": "Dây rút trắng 6x300 (100pcs)",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": "6x300",
+    "ViTri": "A1.7",
+    "SoLuongSanPham": 4
+  },
+  "18": {
+    "ID": 18,
+    "TenSanPham": "Dây rút trắng 8x400 (100pcs)",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": "8x400",
+    "ViTri": "A1.8",
+    "SoLuongSanPham": 1
+  },
+  "19": {
+    "ID": 19,
+    "TenSanPham": "Súng hàn sumit",
+    "MaSanPham": "DS",
+    "ThongSoSanPham": "250",
+    "ViTri": "A1.9",
+    "SoLuongSanPham": 9
+  },
+  "20": {
+    "ID": 20,
+    "TenSanPham": "MCCB Mitsubishi NF63-CV 3P 16A",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "3P 16A",
+    "ViTri": "A2.1",
+    "SoLuongSanPham": 2
+  },
+  "21": {
+    "ID": 21,
+    "TenSanPham": "Van thủy lực DSG-01-2B2-D24-50",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "DSG-01-2B2-D24-50",
+    "ViTri": "A2.10",
+    "SoLuongSanPham": 1
+  },
+  "22": {
+    "ID": 22,
+    "TenSanPham": "Van an toàn bình tích khí nén",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "3/4\"",
+    "ViTri": "A2.11",
+    "SoLuongSanPham": 1
+  },
+  "23": {
+    "ID": 23,
+    "TenSanPham": "Mỏ hàn chì",
+    "MaSanPham": "MHC",
+    "ThongSoSanPham": "100W",
+    "ViTri": "A2.12",
+    "SoLuongSanPham": 2
+  },
+  "24": {
+    "ID": 24,
+    "TenSanPham": "Bạc đạn 607.2ZR",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "607",
+    "ViTri": "A2.13",
+    "SoLuongSanPham": 10
+  },
+  "25": {
+    "ID": 25,
+    "TenSanPham": "Bạc đạn 608Z",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "608Z",
+    "ViTri": "A2.14",
+    "SoLuongSanPham": 20
+  },
+  "26": {
+    "ID": 26,
+    "TenSanPham": "Bạc đạn 689ZZ",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "689ZZ",
+    "ViTri": "A2.15",
+    "SoLuongSanPham": 17
+  },
+  "27": {
+    "ID": 27,
+    "TenSanPham": "Bạc đạn 688ZZ NMB",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "688ZZ NMB",
+    "ViTri": "A2.16",
+    "SoLuongSanPham": 40
+  },
+  "28": {
+    "ID": 28,
+    "TenSanPham": "Bạc đạn 6002",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "6002",
+    "ViTri": "A2.17",
+    "SoLuongSanPham": 2
+  },
+  "29": {
+    "ID": 29,
+    "TenSanPham": "Bạc đạn 6001ZZ",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "6001",
+    "ViTri": "A2.18",
+    "SoLuongSanPham": 5
+  },
+  "30": {
+    "ID": 30,
+    "TenSanPham": "Bạc đạn 629ZZ",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "629ZZ",
+    "ViTri": "A2.19",
+    "SoLuongSanPham": 10
+  },
+  "31": {
+    "ID": 31,
+    "TenSanPham": "MCCB Mitsubishi NF125-SV 4P 32A 30kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "4P 32A 30kA",
+    "ViTri": "A2.2",
+    "SoLuongSanPham": 1
+  },
+  "32": {
+    "ID": 32,
+    "TenSanPham": "Bạc đạn 6201",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "6201",
+    "ViTri": "A2.20",
+    "SoLuongSanPham": 5
+  },
+  "33": {
+    "ID": 33,
+    "TenSanPham": "Bạc đạn 6202 2ZR FAG",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "6202 2ZR FAG",
+    "ViTri": "A2.21",
+    "SoLuongSanPham": 4
+  },
+  "34": {
+    "ID": 34,
+    "TenSanPham": "Bạc đạn 696",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "696",
+    "ViTri": "A2.22",
+    "SoLuongSanPham": 9
+  },
+  "35": {
+    "ID": 35,
+    "TenSanPham": "Bạc đạn 6206 2ZR",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "6206 2ZR",
+    "ViTri": "A2.23",
+    "SoLuongSanPham": 3
+  },
+  "36": {
+    "ID": 36,
+    "TenSanPham": "Ray trượt Hiwin H20C",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "H20C",
+    "ViTri": "A2.24",
+    "SoLuongSanPham": 2
+  },
+  "37": {
+    "ID": 37,
+    "TenSanPham": "Bạc đạn gối UCP204-J7",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "UCP",
+    "ViTri": "A2.25",
+    "SoLuongSanPham": 2
+  },
+  "38": {
+    "ID": 38,
+    "TenSanPham": "Đèn led 3 màu",
+    "MaSanPham": "LED3",
+    "ThongSoSanPham": "24/220V",
+    "ViTri": "A2.26",
+    "SoLuongSanPham": 10
+  },
+  "39": {
+    "ID": 39,
+    "TenSanPham": "Nguồn tổ ong 12V",
+    "MaSanPham": "NTO",
+    "ThongSoSanPham": "12V",
+    "ViTri": "A2.27",
+    "SoLuongSanPham": 2
+  },
+  "40": {
+    "ID": 40,
+    "TenSanPham": "Nguồn tổ ong 24V",
+    "MaSanPham": "NTO",
+    "ThongSoSanPham": "24V",
+    "ViTri": "A2.28",
+    "SoLuongSanPham": 2
+  },
+  "41": {
+    "ID": 41,
+    "TenSanPham": "MCB Mitsubishi 3P 20A BH-D6",
+    "MaSanPham": "MCB",
+    "ThongSoSanPham": "3P 20A",
+    "ViTri": "A2.29",
+    "SoLuongSanPham": 5
+  },
+  "42": {
+    "ID": 42,
+    "TenSanPham": "MCCB Mitsubishi NF125-SV 4P 50A 30kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "4P 50A 30kA",
+    "ViTri": "A2.3",
+    "SoLuongSanPham": 4
+  },
+  "43": {
+    "ID": 43,
+    "TenSanPham": "Công tắc nguồn Main Switch",
+    "MaSanPham": "CTN",
+    "ThongSoSanPham": "25/63A",
+    "ViTri": "A2.30",
+    "SoLuongSanPham": 2
+  },
+  "44": {
+    "ID": 44,
+    "TenSanPham": "PLC Mitsubishi FX1N-40MR-001",
+    "MaSanPham": "PLC",
+    "ThongSoSanPham": "FX",
+    "ViTri": "A2.31",
+    "SoLuongSanPham": 3
+  },
+  "45": {
+    "ID": 45,
+    "TenSanPham": "Stato MAKITA GA 4030",
+    "MaSanPham": "STA",
+    "ThongSoSanPham": "GA",
+    "ViTri": "A2.32",
+    "SoLuongSanPham": 2
+  },
+  "46": {
+    "ID": 46,
+    "TenSanPham": "Roto MAKITA GA 4030",
+    "MaSanPham": "ROT",
+    "ThongSoSanPham": "Ga",
+    "ViTri": "A2.33",
+    "SoLuongSanPham": 0
+  },
+  "47": {
+    "ID": 47,
+    "TenSanPham": "Công tắc hành trình Omron D24V 8108Z - 10A",
+    "MaSanPham": "CTHT",
+    "ThongSoSanPham": "D24V 8108Z - 10A",
+    "ViTri": "A2.34",
+    "SoLuongSanPham": 7
+  },
+  "48": {
+    "ID": 48,
+    "TenSanPham": "Kính bảo vệ trên laser",
+    "MaSanPham": "KBV",
+    "ThongSoSanPham": "D21.ST2-9",
+    "ViTri": "A2.35",
+    "SoLuongSanPham": 2
+  },
+  "49": {
+    "ID": 49,
+    "TenSanPham": "Hộp nút nhấn phi 22",
+    "MaSanPham": "HNN",
+    "ThongSoSanPham": "Phi 22",
+    "ViTri": "A2.36",
+    "SoLuongSanPham": 1
+  },
+  "50": {
+    "ID": 50,
+    "TenSanPham": "Pin trung C Maxwell 1.5V",
+    "MaSanPham": "PIN",
+    "ThongSoSanPham": "1.5V",
+    "ViTri": "A2.37",
+    "SoLuongSanPham": 30
+  },
+  "51": {
+    "ID": 51,
+    "TenSanPham": "Pin nuôi nguồn Toshiba ER6V/3.6V",
+    "MaSanPham": "PIN",
+    "ThongSoSanPham": "3.6V",
+    "ViTri": "A2.38",
+    "SoLuongSanPham": 37
+  },
+  "52": {
+    "ID": 52,
+    "TenSanPham": "Pin nuôi nguồn Mitsubishi - ER17330V/3.6V",
+    "MaSanPham": "PIN",
+    "ThongSoSanPham": "3.6V",
+    "ViTri": "A2.39",
+    "SoLuongSanPham": 7
+  },
+  "53": {
+    "ID": 53,
+    "TenSanPham": "MCCB Mitsubishi NF250-SV 4P 200A 36kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "4P 200A 36kA",
+    "ViTri": "A2.4",
+    "SoLuongSanPham": 4
+  },
+  "54": {
+    "ID": 54,
+    "TenSanPham": "Pin nuôi nguồn Pin Lithium CR14250SE (3V) FDK",
+    "MaSanPham": "PIN",
+    "ThongSoSanPham": "3V",
+    "ViTri": "A2.40",
+    "SoLuongSanPham": 10
+  },
+  "55": {
+    "ID": 55,
+    "TenSanPham": "Cảm biến tiệm cận Autonics PRDL12-8DP2-NPN-24VDC",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "PRDL12-8DP2-NPN-24VDC",
+    "ViTri": "A2.41",
+    "SoLuongSanPham": 8
+  },
+  "56": {
+    "ID": 56,
+    "TenSanPham": "Cảm biến tiệm cận Autonics PR30-15DN (NO NPN) 12-24VDC",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "PR30-15DN (NO NPN) 12-24VDC",
+    "ViTri": "A2.42",
+    "SoLuongSanPham": 4
+  },
+  "57": {
+    "ID": 57,
+    "TenSanPham": "Cảm biến laser tấm HS-Q17-N01",
+    "MaSanPham": "CB",
+    "ThongSoSanPham": "24VDC",
+    "ViTri": "A2.43",
+    "SoLuongSanPham": 1
+  },
+  "58": {
+    "ID": 58,
+    "TenSanPham": "Cảm biến tiệm cận RIKO RN05-N-BN-10-30V",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "RN05-N-BN-10-30V",
+    "ViTri": "A2.44",
+    "SoLuongSanPham": 2
+  },
+  "59": {
+    "ID": 59,
+    "TenSanPham": "Cảm biến tiệm cận E3F-DS30Y2",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "E3F-DS30Y2",
+    "ViTri": "A2.45",
+    "SoLuongSanPham": 1
+  },
+  "60": {
+    "ID": 60,
+    "TenSanPham": "Công tắc áp suất Autosigma HS-210 (1-10MPa)",
+    "MaSanPham": "CTA",
+    "ThongSoSanPham": "HS-210 (1-10MPa)",
+    "ViTri": "A2.46",
+    "SoLuongSanPham": 1
+  },
+  "61": {
+    "ID": 61,
+    "TenSanPham": "Van điện từ TX5404.04 24VDC",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "TX5404.04 24VDC",
+    "ViTri": "A2.47",
+    "SoLuongSanPham": 1
+  },
+  "62": {
+    "ID": 62,
+    "TenSanPham": "Van điện từ 5/2 220VAC 4M310-8",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "5/2 220VAC 4M310-8",
+    "ViTri": "A2.48",
+    "SoLuongSanPham": 1
+  },
+  "63": {
+    "ID": 63,
+    "TenSanPham": "Đầu cắt laser",
+    "MaSanPham": "DCL",
+    "ThongSoSanPham": "TS000003",
+    "ViTri": "A2.49",
+    "SoLuongSanPham": 1
+  },
+  "64": {
+    "ID": 64,
+    "TenSanPham": "MCCB Mitsubishi NF250-SV 3P 250A 36kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "3P 250A 36kA",
+    "ViTri": "A2.5",
+    "SoLuongSanPham": 3
+  },
+  "65": {
+    "ID": 65,
+    "TenSanPham": "Tụ quạt 2uF/4uF",
+    "MaSanPham": "TU",
+    "ThongSoSanPham": "2uF/4uF 400VAC",
+    "ViTri": "A2.50",
+    "SoLuongSanPham": 8
+  },
+  "66": {
+    "ID": 66,
+    "TenSanPham": "Pin ABB-Tadiran 3,6v TL-5930 size D",
+    "MaSanPham": "PIN",
+    "ThongSoSanPham": "10.8V",
+    "ViTri": "A2.51",
+    "SoLuongSanPham": 3
+  },
+  "67": {
+    "ID": 67,
+    "TenSanPham": "Cảm biến tiệm cận Autonics BM200-DDT",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "BM200-DDT",
+    "ViTri": "A2.52",
+    "SoLuongSanPham": 1
+  },
+  "68": {
+    "ID": 68,
+    "TenSanPham": "Đồng hồ đo PH",
+    "MaSanPham": "DH",
+    "ThongSoSanPham": "Đo PH",
+    "ViTri": "A2.53",
+    "SoLuongSanPham": 1
+  },
+  "69": {
+    "ID": 69,
+    "TenSanPham": "MCCB Mitsubishi NF400-CW 3P 250A 36kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "3P 250A 36kA",
+    "ViTri": "A2.6",
+    "SoLuongSanPham": 1
+  },
+  "70": {
+    "ID": 70,
+    "TenSanPham": "MCCB Mitsubishi NF500-CW 3P 500A 36kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "3P 500A 36kA",
+    "ViTri": "A2.7",
+    "SoLuongSanPham": 1
+  },
+  "71": {
+    "ID": 71,
+    "TenSanPham": "MCCB Mitsubishi NF630-CW 3P 630A 36kA",
+    "MaSanPham": "MCCB",
+    "ThongSoSanPham": "3P 630A 36kA",
+    "ViTri": "A2.8",
+    "SoLuongSanPham": 1
+  },
+  "72": {
+    "ID": 72,
+    "TenSanPham": "Van thủy lực DSG-01-3C4-D12-N-70",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "DSG-01-3C4-D12-N-70",
+    "ViTri": "A2.9",
+    "SoLuongSanPham": 1
+  },
+  "73": {
+    "ID": 73,
+    "TenSanPham": "Bơm dầu 2L 50ml/min 220 V 28W",
+    "MaSanPham": "BD",
+    "ThongSoSanPham": "2L",
+    "ViTri": "A3.1",
+    "SoLuongSanPham": 3
+  },
+  "74": {
+    "ID": 74,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "A3.10",
+    "SoLuongSanPham": null
+  },
+  "75": {
+    "ID": 75,
+    "TenSanPham": "Bộ chuyển đổi áp suất sang mA",
+    "MaSanPham": "BCDP",
+    "ThongSoSanPham": "P-mA",
+    "ViTri": "A3.11",
+    "SoLuongSanPham": 1
+  },
+  "76": {
+    "ID": 76,
+    "TenSanPham": "Đồng hồ nhiệt delta DTA9696RO 100-240VAC",
+    "MaSanPham": "DH",
+    "ThongSoSanPham": "DTA9696RO 100-240VAC",
+    "ViTri": "A3.12",
+    "SoLuongSanPham": 1
+  },
+  "77": {
+    "ID": 77,
+    "TenSanPham": "Đồng hồ nhiệt ESM-9920 100-240VAC",
+    "MaSanPham": "DH",
+    "ThongSoSanPham": "ESM-9920 100-240VAC",
+    "ViTri": "A3.13",
+    "SoLuongSanPham": 1
+  },
+  "78": {
+    "ID": 78,
+    "TenSanPham": "Súng hàn TIG WP18 Máy hàn TiG 250A_AC/DC",
+    "MaSanPham": "SHT",
+    "ThongSoSanPham": "250",
+    "ViTri": "A3.14",
+    "SoLuongSanPham": 1
+  },
+  "79": {
+    "ID": 79,
+    "TenSanPham": "Bộ đánh lửa hàn đồng",
+    "MaSanPham": "BDL",
+    "ThongSoSanPham": "CU",
+    "ViTri": "A3.15",
+    "SoLuongSanPham": 1
+  },
+  "80": {
+    "ID": 80,
+    "TenSanPham": "Bộ tiết kiệm gas hàn đồng",
+    "MaSanPham": "BTK",
+    "ThongSoSanPham": "GAS",
+    "ViTri": "A3.16",
+    "SoLuongSanPham": 1
+  },
+  "81": {
+    "ID": 81,
+    "TenSanPham": "Đồng hồ acetylen",
+    "MaSanPham": "DH",
+    "ThongSoSanPham": "0-3kg/cm2",
+    "ViTri": "A3.17",
+    "SoLuongSanPham": 5
+  },
+  "82": {
+    "ID": 82,
+    "TenSanPham": "Dây đôi khí acetylen và oxy",
+    "MaSanPham": "DK",
+    "ThongSoSanPham": "DI13-DO8",
+    "ViTri": "A3.18",
+    "SoLuongSanPham": 20
+  },
+  "83": {
+    "ID": 83,
+    "TenSanPham": "Bộ điều khiển VS2",
+    "MaSanPham": "BDK",
+    "ThongSoSanPham": "VS2",
+    "ViTri": "A3.2",
+    "SoLuongSanPham": 1
+  },
+  "84": {
+    "ID": 84,
+    "TenSanPham": "Cò chân 1NO 1NC ( 15A-250V)",
+    "MaSanPham": "CCH",
+    "ThongSoSanPham": "1NO 1NC ( 15A-250V)",
+    "ViTri": "A3.3",
+    "SoLuongSanPham": 2
+  },
+  "85": {
+    "ID": 85,
+    "TenSanPham": "Cảm biến vùng Autonics BWP20-20P (Plastic case) 12-24VDC",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "BWP20-20P (Plastic case) 12-24VDC",
+    "ViTri": "A3.4",
+    "SoLuongSanPham": 2
+  },
+  "86": {
+    "ID": 86,
+    "TenSanPham": "Rulo tải dây máy hàn mig 0.9-1.2mm",
+    "MaSanPham": "RULO",
+    "ThongSoSanPham": "0.9",
+    "ViTri": "A3.5",
+    "SoLuongSanPham": 4
+  },
+  "87": {
+    "ID": 87,
+    "TenSanPham": "Quạt tủ điện NMB 11938MB-B2N-EA",
+    "MaSanPham": "Pan",
+    "ThongSoSanPham": null,
+    "ViTri": "A3.6",
+    "SoLuongSanPham": 2
+  },
+  "88": {
+    "ID": 88,
+    "TenSanPham": "Van khí DC24V-AB2X0018",
+    "MaSanPham": "VAN",
+    "ThongSoSanPham": "DC24V-AB2X0018",
+    "ViTri": "A3.7",
+    "SoLuongSanPham": 3
+  },
+  "89": {
+    "ID": 89,
+    "TenSanPham": "Sung hàn mig OTC-L11709-0.9m",
+    "MaSanPham": "DRB",
+    "ThongSoSanPham": "OTC",
+    "ViTri": "A3.8",
+    "SoLuongSanPham": 1
+  },
+  "90": {
+    "ID": 90,
+    "TenSanPham": "Ruột gà hàn mig L6611D02 ( 0.9-1.2MM)",
+    "MaSanPham": "RUOTGA",
+    "ThongSoSanPham": "L66",
+    "ViTri": "A3.9",
+    "SoLuongSanPham": 1
+  },
+  "91": {
+    "ID": 91,
+    "TenSanPham": "Rulo máy mài chữ Y",
+    "MaSanPham": "RULO",
+    "ThongSoSanPham": "Y",
+    "ViTri": "A4.1",
+    "SoLuongSanPham": 4
+  },
+  "92": {
+    "ID": 92,
+    "TenSanPham": "Bộ hiệu chuẩn máy tiện CNC",
+    "MaSanPham": "BHC",
+    "ThongSoSanPham": "CNC",
+    "ViTri": "A4.2",
+    "SoLuongSanPham": 2
+  },
+  "93": {
+    "ID": 93,
+    "TenSanPham": "Hộp số 1/10",
+    "MaSanPham": "HSO",
+    "ThongSoSanPham": "01-Oct",
+    "ViTri": "A4.3",
+    "SoLuongSanPham": 1
+  },
+  "94": {
+    "ID": 94,
+    "TenSanPham": "Hộp số 1/20",
+    "MaSanPham": "HSO",
+    "ThongSoSanPham": "Jan-20",
+    "ViTri": "A4.4",
+    "SoLuongSanPham": 1
+  },
+  "95": {
+    "ID": 95,
+    "TenSanPham": "Động cơ Servo 400W",
+    "MaSanPham": "DC",
+    "ThongSoSanPham": "400W",
+    "ViTri": "A4.5",
+    "SoLuongSanPham": 1
+  },
+  "96": {
+    "ID": 96,
+    "TenSanPham": "Thanh trượt vuông HIWIN HGR20 dài 3750mm",
+    "MaSanPham": "TT",
+    "ThongSoSanPham": "HGR20 dài 3750mm",
+    "ViTri": "A5.1",
+    "SoLuongSanPham": 1
+  },
+  "97": {
+    "ID": 97,
+    "TenSanPham": "Dây curoa 450-5M",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "450-5M",
+    "ViTri": "A6.1",
+    "SoLuongSanPham": 1
+  },
+  "98": {
+    "ID": 98,
+    "TenSanPham": "Dây curoa 11M1030",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "11M1030",
+    "ViTri": "A6.10",
+    "SoLuongSanPham": 3
+  },
+  "99": {
+    "ID": 99,
+    "TenSanPham": "Dây curoa 560-5M",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "560-5M",
+    "ViTri": "A6.2",
+    "SoLuongSanPham": 2
+  },
+  "100": {
+    "ID": 100,
+    "TenSanPham": "Dây curoa 220XL",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "220XL",
+    "ViTri": "A6.3",
+    "SoLuongSanPham": 1
+  },
+  "101": {
+    "ID": 101,
+    "TenSanPham": "Dây curoa XPZ 662",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "XPZ 662",
+    "ViTri": "A6.4",
+    "SoLuongSanPham": 2
+  },
+  "102": {
+    "ID": 102,
+    "TenSanPham": "Dây curoa A31",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "A31",
+    "ViTri": "A6.5",
+    "SoLuongSanPham": 4
+  },
+  "103": {
+    "ID": 103,
+    "TenSanPham": "Dây curoa A50",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "A50",
+    "ViTri": "A6.6",
+    "SoLuongSanPham": 3
+  },
+  "104": {
+    "ID": 104,
+    "TenSanPham": "Dây curoa A45",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "A45",
+    "ViTri": "A6.7",
+    "SoLuongSanPham": 3
+  },
+  "105": {
+    "ID": 105,
+    "TenSanPham": "Dây curoa A48",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "A48",
+    "ViTri": "A6.8",
+    "SoLuongSanPham": 4
+  },
+  "106": {
+    "ID": 106,
+    "TenSanPham": "Dây curoa A47",
+    "MaSanPham": "Curoa",
+    "ThongSoSanPham": "A47",
+    "ViTri": "A6.9",
+    "SoLuongSanPham": 6
+  },
+  "107": {
+    "ID": 107,
+    "TenSanPham": "Động cơ điện",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.1",
+    "SoLuongSanPham": 5
+  },
+  "108": {
+    "ID": 108,
+    "TenSanPham": "Máng trượt ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.1",
+    "SoLuongSanPham": 6
+  },
+  "109": {
+    "ID": 109,
+    "TenSanPham": "Biến trở",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.2",
+    "SoLuongSanPham": 7
+  },
+  "110": {
+    "ID": 110,
+    "TenSanPham": "Công tắc hành trình",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.2",
+    "SoLuongSanPham": 16
+  },
+  "111": {
+    "ID": 111,
+    "TenSanPham": "Van khi dập",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.3",
+    "SoLuongSanPham": 3
+  },
+  "112": {
+    "ID": 112,
+    "TenSanPham": "Van khí nén",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.3",
+    "SoLuongSanPham": 3
+  },
+  "113": {
+    "ID": 113,
+    "TenSanPham": "Van khí nén 5/2",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.3",
+    "SoLuongSanPham": 2
+  },
+  "114": {
+    "ID": 114,
+    "TenSanPham": "Van robot",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.3",
+    "SoLuongSanPham": 13
+  },
+  "115": {
+    "ID": 115,
+    "TenSanPham": "Van khí",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.3",
+    "SoLuongSanPham": 3
+  },
+  "116": {
+    "ID": 116,
+    "TenSanPham": "Bạc đạn gối",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.4",
+    "SoLuongSanPham": 8
+  },
+  "117": {
+    "ID": 117,
+    "TenSanPham": "Bạc đạn 30213",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "118": {
+    "ID": 118,
+    "TenSanPham": "Bạc đạn 6309-22",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "119": {
+    "ID": 119,
+    "TenSanPham": "Bạc đạn 6309 - 2RSR",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "120": {
+    "ID": 120,
+    "TenSanPham": "Bạc đạn 6505- 2 Z",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "121": {
+    "ID": 121,
+    "TenSanPham": "Bạc đạn Máy uốn KR35- PP-A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "122": {
+    "ID": 122,
+    "TenSanPham": "Bạc đạn Máy gối UCP 209 - J7",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "123": {
+    "ID": 123,
+    "TenSanPham": "Bạc đạn gối DH512",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "124": {
+    "ID": 124,
+    "TenSanPham": "Bạc đạn gối 6209-22.",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "125": {
+    "ID": 125,
+    "TenSanPham": "Bạc đạn gối 6210 -",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "126": {
+    "ID": 126,
+    "TenSanPham": "Bạc đạn gối 6208",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "127": {
+    "ID": 127,
+    "TenSanPham": "Bạc đạn gối 6204",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 10
+  },
+  "128": {
+    "ID": 128,
+    "TenSanPham": "Bạc đạn gối 6200",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 8
+  },
+  "129": {
+    "ID": 129,
+    "TenSanPham": "Bạc đạn gối 30205",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "130": {
+    "ID": 130,
+    "TenSanPham": "Bạc đạn gối H312",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "131": {
+    "ID": 131,
+    "TenSanPham": "Bạc đạn gối 6307",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 5
+  },
+  "132": {
+    "ID": 132,
+    "TenSanPham": "Bạc đạn gối 6310",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "133": {
+    "ID": 133,
+    "TenSanPham": "Bạc đạn gối 22212 - Е1",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "134": {
+    "ID": 134,
+    "TenSanPham": "Bạc đạn gối 6000",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 4
+  },
+  "135": {
+    "ID": 135,
+    "TenSanPham": "Bạc đạn gối 6202- 2RS",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "136": {
+    "ID": 136,
+    "TenSanPham": "Bạc đạn gối ASS201N ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "137": {
+    "ID": 137,
+    "TenSanPham": "Bạc đạn gối NSKHIPS",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "138": {
+    "ID": 138,
+    "TenSanPham": "Bạc đạn gối NK120/20",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "139": {
+    "ID": 139,
+    "TenSanPham": "Bạc đạn gối HK 2825",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "140": {
+    "ID": 140,
+    "TenSanPham": "Bạc đạn gối 51112",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 1
+  },
+  "141": {
+    "ID": 141,
+    "TenSanPham": "Bạc đạn gối F209",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.5",
+    "SoLuongSanPham": 2
+  },
+  "142": {
+    "ID": 142,
+    "TenSanPham": "Ổ bi Misumi",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.6",
+    "SoLuongSanPham": 2
+  },
+  "143": {
+    "ID": 143,
+    "TenSanPham": "Ct áp",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.7",
+    "SoLuongSanPham": 3
+  },
+  "144": {
+    "ID": 144,
+    "TenSanPham": "Van thuỷ lực Yuken",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.7",
+    "SoLuongSanPham": 9
+  },
+  "145": {
+    "ID": 145,
+    "TenSanPham": "Xy lanh thuỷ lực",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.7",
+    "SoLuongSanPham": 1
+  },
+  "146": {
+    "ID": 146,
+    "TenSanPham": "Công tắc treo",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C1.8",
+    "SoLuongSanPham": 260
+  },
+  "147": {
+    "ID": 147,
+    "TenSanPham": "Gối thanh cái",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 6
+  },
+  "148": {
+    "ID": 148,
+    "TenSanPham": "Cos 10-10",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 15
+  },
+  "149": {
+    "ID": 149,
+    "TenSanPham": "Cos ghim",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 52
+  },
+  "150": {
+    "ID": 150,
+    "TenSanPham": "Nối 16-8",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 24
+  },
+  "151": {
+    "ID": 151,
+    "TenSanPham": "Nối 50",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 31
+  },
+  "152": {
+    "ID": 152,
+    "TenSanPham": "Nối 50-10",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 80
+  },
+  "153": {
+    "ID": 153,
+    "TenSanPham": "Nối 50-8",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 41
+  },
+  "154": {
+    "ID": 154,
+    "TenSanPham": "Nối 70-12",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 36
+  },
+  "155": {
+    "ID": 155,
+    "TenSanPham": "Nối 185- 12",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 7
+  },
+  "156": {
+    "ID": 156,
+    "TenSanPham": "Nối 185- 14",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 7
+  },
+  "157": {
+    "ID": 157,
+    "TenSanPham": "Nối 150 - 14",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 4
+  },
+  "158": {
+    "ID": 158,
+    "TenSanPham": "Nối 95",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 10
+  },
+  "159": {
+    "ID": 159,
+    "TenSanPham": "Nối 120- 10",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 7
+  },
+  "160": {
+    "ID": 160,
+    "TenSanPham": "Nối 150- 12",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 3
+  },
+  "161": {
+    "ID": 161,
+    "TenSanPham": "Nối 4-4",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 47
+  },
+  "162": {
+    "ID": 162,
+    "TenSanPham": "Nối 4-6",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 30
+  },
+  "163": {
+    "ID": 163,
+    "TenSanPham": "Cos СВ tếp",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.1",
+    "SoLuongSanPham": 75
+  },
+  "164": {
+    "ID": 164,
+    "TenSanPham": "Timer controller",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.10",
+    "SoLuongSanPham": 7
+  },
+  "165": {
+    "ID": 165,
+    "TenSanPham": "PLC Mitsu ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.10",
+    "SoLuongSanPham": 1
+  },
+  "166": {
+    "ID": 166,
+    "TenSanPham": "Siemens",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.10",
+    "SoLuongSanPham": 3
+  },
+  "167": {
+    "ID": 167,
+    "TenSanPham": "Bộ nguồn",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.10",
+    "SoLuongSanPham": 9
+  },
+  "168": {
+    "ID": 168,
+    "TenSanPham": "Màn hình HMI",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.11",
+    "SoLuongSanPham": 1
+  },
+  "169": {
+    "ID": 169,
+    "TenSanPham": "Màn hình máy phay DNC one",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.11",
+    "SoLuongSanPham": 2
+  },
+  "170": {
+    "ID": 170,
+    "TenSanPham": "Đế relay (14c)",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 35
+  },
+  "171": {
+    "ID": 171,
+    "TenSanPham": "Đèn báo pha",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 29
+  },
+  "172": {
+    "ID": 172,
+    "TenSanPham": "Relay kiếng 14 chân",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 40
+  },
+  "173": {
+    "ID": 173,
+    "TenSanPham": "Relay kiếng 8 chân",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 30
+  },
+  "174": {
+    "ID": 174,
+    "TenSanPham": "Đế relay (8c)",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 9
+  },
+  "175": {
+    "ID": 175,
+    "TenSanPham": "Tiếp điểm NC",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 43
+  },
+  "176": {
+    "ID": 176,
+    "TenSanPham": "Cầu chì 10A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 20
+  },
+  "177": {
+    "ID": 177,
+    "TenSanPham": "Cầu chì 5A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 145
+  },
+  "178": {
+    "ID": 178,
+    "TenSanPham": "Nút nhấn giữ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.2",
+    "SoLuongSanPham": 10
+  },
+  "179": {
+    "ID": 179,
+    "TenSanPham": "MCCB 32A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 5
+  },
+  "180": {
+    "ID": 180,
+    "TenSanPham": "MCCB  50A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "181": {
+    "ID": 181,
+    "TenSanPham": "MCCB  63A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "182": {
+    "ID": 182,
+    "TenSanPham": "MCCB  100A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "183": {
+    "ID": 183,
+    "TenSanPham": "MCCB  150A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "184": {
+    "ID": 184,
+    "TenSanPham": "MCCB  160A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "185": {
+    "ID": 185,
+    "TenSanPham": "MCCB  175A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 2
+  },
+  "186": {
+    "ID": 186,
+    "TenSanPham": "MCCB  250A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.3",
+    "SoLuongSanPham": 1
+  },
+  "187": {
+    "ID": 187,
+    "TenSanPham": "MCB 50A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.4",
+    "SoLuongSanPham": 8
+  },
+  "188": {
+    "ID": 188,
+    "TenSanPham": "MCB 63A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.4",
+    "SoLuongSanPham": 10
+  },
+  "189": {
+    "ID": 189,
+    "TenSanPham": "MCB 10A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.4",
+    "SoLuongSanPham": 1
+  },
+  "190": {
+    "ID": 190,
+    "TenSanPham": "CB 1 PHA 6A",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.5",
+    "SoLuongSanPham": 3
+  },
+  "191": {
+    "ID": 191,
+    "TenSanPham": "Contactor",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.5",
+    "SoLuongSanPham": 12
+  },
+  "192": {
+    "ID": 192,
+    "TenSanPham": "Relay nhiệt",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.5",
+    "SoLuongSanPham": 5
+  },
+  "193": {
+    "ID": 193,
+    "TenSanPham": "LADN22",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.5",
+    "SoLuongSanPham": 4
+  },
+  "194": {
+    "ID": 194,
+    "TenSanPham": "Đồng hồ đo dòng",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.6",
+    "SoLuongSanPham": 5
+  },
+  "195": {
+    "ID": 195,
+    "TenSanPham": "Relay timer",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.6",
+    "SoLuongSanPham": 7
+  },
+  "196": {
+    "ID": 196,
+    "TenSanPham": "Biến dòng",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.6",
+    "SoLuongSanPham": 14
+  },
+  "197": {
+    "ID": 197,
+    "TenSanPham": "Màn hình biến tần ABB",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.6",
+    "SoLuongSanPham": 3
+  },
+  "198": {
+    "ID": 198,
+    "TenSanPham": "Đồng hồ áp",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.7",
+    "SoLuongSanPham": 32
+  },
+  "199": {
+    "ID": 199,
+    "TenSanPham": "Cảm biến tiệm cận",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.8",
+    "SoLuongSanPham": 17
+  },
+  "200": {
+    "ID": 200,
+    "TenSanPham": "Bộ điều khiển lò xấy sơn bột",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.9",
+    "SoLuongSanPham": 1
+  },
+  "201": {
+    "ID": 201,
+    "TenSanPham": "Bộ kim bấm cos thuỷ lực",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C2.9",
+    "SoLuongSanPham": 1
+  },
+  "202": {
+    "ID": 202,
+    "TenSanPham": "Băng keo điện",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.1",
+    "SoLuongSanPham": 64
+  },
+  "203": {
+    "ID": 203,
+    "TenSanPham": "Keo dán ren",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.1",
+    "SoLuongSanPham": 5
+  },
+  "204": {
+    "ID": 204,
+    "TenSanPham": "Nút nhấn máy dập",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.2",
+    "SoLuongSanPham": 9
+  },
+  "205": {
+    "ID": 205,
+    "TenSanPham": "Băng kéo dán",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.3",
+    "SoLuongSanPham": 11
+  },
+  "206": {
+    "ID": 206,
+    "TenSanPham": "Đèn MPE 10W",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.4",
+    "SoLuongSanPham": 1
+  },
+  "207": {
+    "ID": 207,
+    "TenSanPham": "Đèn Led 40W",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.4",
+    "SoLuongSanPham": 3
+  },
+  "208": {
+    "ID": 208,
+    "TenSanPham": "Máy mài DP",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.5",
+    "SoLuongSanPham": 1
+  },
+  "209": {
+    "ID": 209,
+    "TenSanPham": "Máy doa DP",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.5",
+    "SoLuongSanPham": 1
+  },
+  "210": {
+    "ID": 210,
+    "TenSanPham": "Phao điện",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.6",
+    "SoLuongSanPham": 5
+  },
+  "211": {
+    "ID": 211,
+    "TenSanPham": "Keo lụa",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.6",
+    "SoLuongSanPham": 42
+  },
+  "212": {
+    "ID": 212,
+    "TenSanPham": "Chui cắm CN 3 pha",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 19
+  },
+  "213": {
+    "ID": 213,
+    "TenSanPham": "Chui cắm CN 1 pha",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 16
+  },
+  "214": {
+    "ID": 214,
+    "TenSanPham": "Ổ chui cắm CN 3 pha",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 19
+  },
+  "215": {
+    "ID": 215,
+    "TenSanPham": "Ổ cắm dân dụng có hộp bảo vệ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 10
+  },
+  "216": {
+    "ID": 216,
+    "TenSanPham": "Phích cắm đa năng",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 10
+  },
+  "217": {
+    "ID": 217,
+    "TenSanPham": "Ổ cắm sino 3 chấu",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 9
+  },
+  "218": {
+    "ID": 218,
+    "TenSanPham": "Ổ cắm Panasonic 1 chấu",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C3.7",
+    "SoLuongSanPham": 20
+  },
+  "219": {
+    "ID": 219,
+    "TenSanPham": "Dây điện cadivi 2x1.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 60
+  },
+  "220": {
+    "ID": 220,
+    "TenSanPham": "Dây điện cadivi 2x2.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 10
+  },
+  "221": {
+    "ID": 221,
+    "TenSanPham": "Dây điện cadivi 1x7/0.425 (dây TE)",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 200
+  },
+  "222": {
+    "ID": 222,
+    "TenSanPham": "Dây điện cadivi 1x2.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 170
+  },
+  "223": {
+    "ID": 223,
+    "TenSanPham": "Dây điện cadivi 0.75",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 50
+  },
+  "224": {
+    "ID": 224,
+    "TenSanPham": "Dây điện cadivi 1x7/0.425 (dây đen)",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 70
+  },
+  "225": {
+    "ID": 225,
+    "TenSanPham": "Dây điện cadivi 16",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 8
+  },
+  "226": {
+    "ID": 226,
+    "TenSanPham": "Dây điện cadivi 25",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 24
+  },
+  "227": {
+    "ID": 227,
+    "TenSanPham": "Dây điện cadivi 3x0.3",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 40
+  },
+  "228": {
+    "ID": 228,
+    "TenSanPham": "Dây điện cadivi 2.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 8
+  },
+  "229": {
+    "ID": 229,
+    "TenSanPham": "Dây điện cadivi 2.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 15
+  },
+  "230": {
+    "ID": 230,
+    "TenSanPham": "Dây điện cadivi 2x0.5",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 150
+  },
+  "231": {
+    "ID": 231,
+    "TenSanPham": "Dây điện cadivi 8",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 50
+  },
+  "232": {
+    "ID": 232,
+    "TenSanPham": "Phụ kiện palang tổ khuôn Q12",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 1
+  },
+  "233": {
+    "ID": 233,
+    "TenSanPham": "Shock sensor OTC",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 1
+  },
+  "234": {
+    "ID": 234,
+    "TenSanPham": "Đèn thoát hiểm",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 9
+  },
+  "235": {
+    "ID": 235,
+    "TenSanPham": "Tay day OTC",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 1
+  },
+  "236": {
+    "ID": 236,
+    "TenSanPham": "Bộ điều khiển servo SGDM-01 ADA",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 1
+  },
+  "237": {
+    "ID": 237,
+    "TenSanPham": "Co nhiệt đỏ",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 15
+  },
+  "238": {
+    "ID": 238,
+    "TenSanPham": "Co nhiệt vàng",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 15
+  },
+  "239": {
+    "ID": 239,
+    "TenSanPham": "Co nhiệt xanh",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 15
+  },
+  "240": {
+    "ID": 240,
+    "TenSanPham": "Co nhiệt đen",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 15
+  },
+  "241": {
+    "ID": 241,
+    "TenSanPham": "Áo chụp đầu cos",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 70
+  },
+  "242": {
+    "ID": 242,
+    "TenSanPham": "Bộ bánh xe cửa lùa 8 bánh",
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "C4",
+    "SoLuongSanPham": 39
+  },
+  "243": {
+    "ID": 243,
+    "TenSanPham": "Dây rút",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": null,
+    "ViTri": "D1.1.1",
+    "SoLuongSanPham": 50
+  },
+  "244": {
+    "ID": 244,
+    "TenSanPham": "Dây rút",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": null,
+    "ViTri": "D1.1.1",
+    "SoLuongSanPham": 250
+  },
+  "245": {
+    "ID": 245,
+    "TenSanPham": "Dây rút",
+    "MaSanPham": "DR",
+    "ThongSoSanPham": null,
+    "ViTri": "D1.1.1",
+    "SoLuongSanPham": 250
+  },
+  "246": {
+    "ID": 246,
+    "TenSanPham": "Kẹp xã gô",
+    "MaSanPham": "Kep",
+    "ThongSoSanPham": "8",
+    "ViTri": "D1.2.1",
+    "SoLuongSanPham": 30
+  },
+  "247": {
+    "ID": 247,
+    "TenSanPham": "Bánh xe cửa kéo",
+    "MaSanPham": "BX",
+    "ThongSoSanPham": "CK",
+    "ViTri": "D1.3.1",
+    "SoLuongSanPham": 10
+  },
+  "248": {
+    "ID": 248,
+    "TenSanPham": "Sin phốt xe nâng tay",
+    "MaSanPham": "Sin",
+    "ThongSoSanPham": "35",
+    "ViTri": "D1.3.4",
+    "SoLuongSanPham": 5
+  },
+  "249": {
+    "ID": 249,
+    "TenSanPham": "Sin phốt xe nâng tay",
+    "MaSanPham": "Sin",
+    "ThongSoSanPham": "31.5",
+    "ViTri": "D1.3.4",
+    "SoLuongSanPham": 5
+  },
+  "250": {
+    "ID": 250,
+    "TenSanPham": "Đầu Đầu nối ti",
+    "MaSanPham": "Tic",
+    "ThongSoSanPham": "12",
+    "ViTri": "D1.4.1",
+    "SoLuongSanPham": 50
+  },
+  "251": {
+    "ID": 251,
+    "TenSanPham": "Live",
+    "MaSanPham": "Live",
+    "ThongSoSanPham": null,
+    "ViTri": "D1.4.1",
+    "SoLuongSanPham": 500
+  },
+  "252": {
+    "ID": 252,
+    "TenSanPham": "Tắt kê nhựa",
+    "MaSanPham": "Tan",
+    "ThongSoSanPham": "5",
+    "ViTri": "D1.5.2",
+    "SoLuongSanPham": 100
+  },
+  "253": {
+    "ID": 253,
+    "TenSanPham": "Tắt kê nhựa",
+    "MaSanPham": "Tan",
+    "ThongSoSanPham": "6",
+    "ViTri": "D1.5.2",
+    "SoLuongSanPham": 100
+  },
+  "254": {
+    "ID": 254,
+    "TenSanPham": "Tắt kê nhựa",
+    "MaSanPham": "Tan",
+    "ThongSoSanPham": "3",
+    "ViTri": "D1.5.2",
+    "SoLuongSanPham": 100
+  },
+  "255": {
+    "ID": 255,
+    "TenSanPham": "Tắt Kê Đạn",
+    "MaSanPham": "Tad",
+    "ThongSoSanPham": "8",
+    "ViTri": "D1.5.3",
+    "SoLuongSanPham": 50
+  },
+  "256": {
+    "ID": 256,
+    "TenSanPham": "Tắt Kê Đạn",
+    "MaSanPham": "Tad",
+    "ThongSoSanPham": "10",
+    "ViTri": "D1.5.3",
+    "SoLuongSanPham": 20
+  },
+  "257": {
+    "ID": 257,
+    "TenSanPham": "Tắt Kê Đạn",
+    "MaSanPham": "Tad",
+    "ThongSoSanPham": "12",
+    "ViTri": "D1.5.3",
+    "SoLuongSanPham": 170
+  },
+  "258": {
+    "ID": 258,
+    "TenSanPham": "Đầu Đầu nối ti",
+    "MaSanPham": "Tic",
+    "ThongSoSanPham": "10",
+    "ViTri": "D1.6.3",
+    "SoLuongSanPham": 50
+  },
+  "259": {
+    "ID": 259,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "8.8",
+    "ViTri": "D2.10.1",
+    "SoLuongSanPham": 10
+  },
+  "260": {
+    "ID": 260,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L80",
+    "ViTri": "D2.10.2",
+    "SoLuongSanPham": 28
+  },
+  "261": {
+    "ID": 261,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L120",
+    "ViTri": "D2.10.3",
+    "SoLuongSanPham": 30
+  },
+  "262": {
+    "ID": 262,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.10.4",
+    "SoLuongSanPham": 0
+  },
+  "263": {
+    "ID": 263,
+    "TenSanPham": "Long đền-LD",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "M12",
+    "ViTri": "D2.10.5",
+    "SoLuongSanPham": 300
+  },
+  "264": {
+    "ID": 264,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L20",
+    "ViTri": "D2.11.1",
+    "SoLuongSanPham": 94
+  },
+  "265": {
+    "ID": 265,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L50",
+    "ViTri": "D2.11.2",
+    "SoLuongSanPham": 30
+  },
+  "266": {
+    "ID": 266,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L60",
+    "ViTri": "D2.11.3",
+    "SoLuongSanPham": 25
+  },
+  "267": {
+    "ID": 267,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L70",
+    "ViTri": "D2.11.4",
+    "SoLuongSanPham": 35
+  },
+  "268": {
+    "ID": 268,
+    "TenSanPham": "Bulong M12-OLG",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "L70",
+    "ViTri": "D2.11.5",
+    "SoLuongSanPham": 1430
+  },
+  "269": {
+    "ID": 269,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.12.1",
+    "SoLuongSanPham": null
+  },
+  "270": {
+    "ID": 270,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.12.2",
+    "SoLuongSanPham": null
+  },
+  "271": {
+    "ID": 271,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.12.3",
+    "SoLuongSanPham": null
+  },
+  "272": {
+    "ID": 272,
+    "TenSanPham": "Long đền-LD",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": null,
+    "ViTri": "D2.12.4",
+    "SoLuongSanPham": 200
+  },
+  "273": {
+    "ID": 273,
+    "TenSanPham": "Tán M12-TAN",
+    "MaSanPham": "M12",
+    "ThongSoSanPham": "M12",
+    "ViTri": "D2.12.5",
+    "SoLuongSanPham": 582
+  },
+  "274": {
+    "ID": 274,
+    "TenSanPham": "Bu lông M14-OBL",
+    "MaSanPham": "M14",
+    "ThongSoSanPham": "L60",
+    "ViTri": "D2.13.1",
+    "SoLuongSanPham": 99
+  },
+  "275": {
+    "ID": 275,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.13.2",
+    "SoLuongSanPham": null
+  },
+  "276": {
+    "ID": 276,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.13.3",
+    "SoLuongSanPham": null
+  },
+  "277": {
+    "ID": 277,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.13.4",
+    "SoLuongSanPham": null
+  },
+  "278": {
+    "ID": 278,
+    "TenSanPham": "Long đền-LD",
+    "MaSanPham": "LD",
+    "ThongSoSanPham": "PHI14",
+    "ViTri": "D2.13.5",
+    "SoLuongSanPham": 100
+  },
+  "279": {
+    "ID": 279,
+    "TenSanPham": "Bulong M16-OBL",
+    "MaSanPham": "M16",
+    "ThongSoSanPham": "OBL",
+    "ViTri": "D2.14.1",
+    "SoLuongSanPham": 34
+  },
+  "280": {
+    "ID": 280,
+    "TenSanPham": "Bulong M16-OLG",
+    "MaSanPham": "M16",
+    "ThongSoSanPham": "OLG",
+    "ViTri": "D2.14.2",
+    "SoLuongSanPham": 6
+  },
+  "281": {
+    "ID": 281,
+    "TenSanPham": "Bulong M16-OBL",
+    "MaSanPham": "M16",
+    "ThongSoSanPham": "OBL200",
+    "ViTri": "D2.14.3",
+    "SoLuongSanPham": 30
+  },
+  "282": {
+    "ID": 282,
+    "TenSanPham": "Bulong M16-OBL",
+    "MaSanPham": "M16",
+    "ThongSoSanPham": "OBL",
+    "ViTri": "D2.14.4",
+    "SoLuongSanPham": 40
+  },
+  "283": {
+    "ID": 283,
+    "TenSanPham": "TAN M16-TAN",
+    "MaSanPham": "M16",
+    "ThongSoSanPham": "M16",
+    "ViTri": "D2.14.5",
+    "SoLuongSanPham": 150
+  },
+  "284": {
+    "ID": 284,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.15.1",
+    "SoLuongSanPham": null
+  },
+  "285": {
+    "ID": 285,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.15.2",
+    "SoLuongSanPham": null
+  },
+  "286": {
+    "ID": 286,
+    "TenSanPham": "Bu lông M18-OBL",
+    "MaSanPham": "M18",
+    "ThongSoSanPham": "L60",
+    "ViTri": "D2.15.3",
+    "SoLuongSanPham": 58
+  },
+  "287": {
+    "ID": 287,
+    "TenSanPham": "Bulong M18-OLG",
+    "MaSanPham": "M18",
+    "ThongSoSanPham": "L80",
+    "ViTri": "D2.15.4",
+    "SoLuongSanPham": 28
+  },
+  "288": {
+    "ID": 288,
+    "TenSanPham": "Tán M20-TAN",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "M20",
+    "ViTri": "D2.15.5",
+    "SoLuongSanPham": 100
+  },
+  "289": {
+    "ID": 289,
+    "TenSanPham": "Bu lông M20-OBL",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "L50",
+    "ViTri": "D2.16.1",
+    "SoLuongSanPham": 10
+  },
+  "290": {
+    "ID": 290,
+    "TenSanPham": "Bulong M20-OLG",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "L50",
+    "ViTri": "D2.16.2",
+    "SoLuongSanPham": 5
+  },
+  "291": {
+    "ID": 291,
+    "TenSanPham": "Bu lông M20-OBL",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "L100",
+    "ViTri": "D2.16.3",
+    "SoLuongSanPham": 10
+  },
+  "292": {
+    "ID": 292,
+    "TenSanPham": "Bu lông M20-OBL",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "L250",
+    "ViTri": "D2.16.3",
+    "SoLuongSanPham": 21
+  },
+  "293": {
+    "ID": 293,
+    "TenSanPham": "Bu lông M20-OBL",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "L100",
+    "ViTri": "D2.16.4",
+    "SoLuongSanPham": 2
+  },
+  "294": {
+    "ID": 294,
+    "TenSanPham": "Tán M20-TAN",
+    "MaSanPham": "M20",
+    "ThongSoSanPham": "M20",
+    "ViTri": "D2.16.5",
+    "SoLuongSanPham": 234
+  },
+  "295": {
+    "ID": 295,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.17.1",
+    "SoLuongSanPham": null
+  },
+  "296": {
+    "ID": 296,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.17.2",
+    "SoLuongSanPham": null
+  },
+  "297": {
+    "ID": 297,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.17.3",
+    "SoLuongSanPham": null
+  },
+  "298": {
+    "ID": 298,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.17.4",
+    "SoLuongSanPham": null
+  },
+  "299": {
+    "ID": 299,
+    "TenSanPham": "Long đền M22-LD",
+    "MaSanPham": "M22",
+    "ThongSoSanPham": "M22",
+    "ViTri": "D2.17.5",
+    "SoLuongSanPham": 200
+  },
+  "300": {
+    "ID": 300,
+    "TenSanPham": "Bulong M27-OLG",
+    "MaSanPham": "M27",
+    "ThongSoSanPham": "L60",
+    "ViTri": "D2.18.1",
+    "SoLuongSanPham": 6
+  },
+  "301": {
+    "ID": 301,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.18.2",
+    "SoLuongSanPham": null
+  },
+  "302": {
+    "ID": 302,
+    "TenSanPham": "Bu lông M24-OBL",
+    "MaSanPham": "M24",
+    "ThongSoSanPham": "L200",
+    "ViTri": "D2.18.4",
+    "SoLuongSanPham": 8
+  },
+  "303": {
+    "ID": 303,
+    "TenSanPham": "Tán M24-TAN",
+    "MaSanPham": "M24",
+    "ThongSoSanPham": "M24",
+    "ViTri": "D2.18.5",
+    "SoLuongSanPham": 56
+  },
+  "304": {
+    "ID": 304,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.19.1",
+    "SoLuongSanPham": null
+  },
+  "305": {
+    "ID": 305,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.19.2",
+    "SoLuongSanPham": null
+  },
+  "306": {
+    "ID": 306,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.19.3",
+    "SoLuongSanPham": null
+  },
+  "307": {
+    "ID": 307,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.19.4",
+    "SoLuongSanPham": null
+  },
+  "308": {
+    "ID": 308,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.19.5",
+    "SoLuongSanPham": null
+  },
+  "309": {
+    "ID": 309,
+    "TenSanPham": "Bu Lông M4-OLG",
+    "MaSanPham": "M4",
+    "ThongSoSanPham": "L10",
+    "ViTri": "D2.2.1",
+    "SoLuongSanPham": 100
+  },
+  "310": {
+    "ID": 310,
+    "TenSanPham": "Bu Lông M4-OLG",
+    "MaSanPham": "M4",
+    "ThongSoSanPham": "L70",
+    "ViTri": "D2.2.2",
+    "SoLuongSanPham": 351
+  },
+  "311": {
+    "ID": 311,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.2.3",
+    "SoLuongSanPham": null
+  },
+  "312": {
+    "ID": 312,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.2.4",
+    "SoLuongSanPham": null
+  },
+  "313": {
+    "ID": 313,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.2.5",
+    "SoLuongSanPham": null
+  },
+  "314": {
+    "ID": 314,
+    "TenSanPham": "Bu Lông M5-VIT",
+    "MaSanPham": "M5",
+    "ThongSoSanPham": "L10",
+    "ViTri": "D2.3.1",
+    "SoLuongSanPham": 468
+  },
+  "315": {
+    "ID": 315,
+    "TenSanPham": "Bu Lông M5-OLG",
+    "MaSanPham": "M5",
+    "ThongSoSanPham": "L15",
+    "ViTri": "D2.3.2",
+    "SoLuongSanPham": 90
+  },
+  "316": {
+    "ID": 316,
+    "TenSanPham": "Bu Lông M5",
+    "MaSanPham": "M5",
+    "ThongSoSanPham": null,
+    "ViTri": "D2.3.3",
+    "SoLuongSanPham": null
+  },
+  "317": {
+    "ID": 317,
+    "TenSanPham": "Bu Lông M5",
+    "MaSanPham": "M5",
+    "ThongSoSanPham": null,
+    "ViTri": "D2.3.4",
+    "SoLuongSanPham": null
+  },
+  "318": {
+    "ID": 318,
+    "TenSanPham": "Bu Lông M5",
+    "MaSanPham": "M5",
+    "ThongSoSanPham": null,
+    "ViTri": "D2.3.5",
+    "SoLuongSanPham": null
+  },
+  "319": {
+    "ID": 319,
+    "TenSanPham": "Bu Lông M6-VIT",
+    "MaSanPham": "M6",
+    "ThongSoSanPham": "L10",
+    "ViTri": "D2.4.1",
+    "SoLuongSanPham": 100
+  },
+  "320": {
+    "ID": 320,
+    "TenSanPham": "Bu Lông M6-OBL",
+    "MaSanPham": "M6",
+    "ThongSoSanPham": "L15",
+    "ViTri": "D2.4.2",
+    "SoLuongSanPham": 180
+  },
+  "321": {
+    "ID": 321,
+    "TenSanPham": "Bu Lông M6-OBL",
+    "MaSanPham": "M6",
+    "ThongSoSanPham": "L70",
+    "ViTri": "D2.4.3",
+    "SoLuongSanPham": 30
+  },
+  "322": {
+    "ID": 322,
+    "TenSanPham": "Bu Lông M6-OBL",
+    "MaSanPham": "M6",
+    "ThongSoSanPham": "L15",
+    "ViTri": "D2.4.4",
+    "SoLuongSanPham": 138
+  },
+  "323": {
+    "ID": 323,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.4.5",
+    "SoLuongSanPham": null
+  },
+  "324": {
+    "ID": 324,
+    "TenSanPham": "Bu Lông M8-OLG",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L20",
+    "ViTri": "D2.5.1",
+    "SoLuongSanPham": 85
+  },
+  "325": {
+    "ID": 325,
+    "TenSanPham": "Bu Lông M8-OLG",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L30",
+    "ViTri": "D2.5.2",
+    "SoLuongSanPham": 138
+  },
+  "326": {
+    "ID": 326,
+    "TenSanPham": "Bu Lông M8-OLG",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L70",
+    "ViTri": "D2.5.3",
+    "SoLuongSanPham": 178
+  },
+  "327": {
+    "ID": 327,
+    "TenSanPham": "Bu Lông M8-OLG",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L50",
+    "ViTri": "D2.5.4",
+    "SoLuongSanPham": 22
+  },
+  "328": {
+    "ID": 328,
+    "TenSanPham": "Long đền M8-LD",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "M8",
+    "ViTri": "D2.5.5",
+    "SoLuongSanPham": 3000
+  },
+  "329": {
+    "ID": 329,
+    "TenSanPham": "Bu Lông M8-OBL",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L25",
+    "ViTri": "D2.6.1",
+    "SoLuongSanPham": 640
+  },
+  "330": {
+    "ID": 330,
+    "TenSanPham": "Bu Lông M8-OBL",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L40",
+    "ViTri": "D2.6.2",
+    "SoLuongSanPham": 100
+  },
+  "331": {
+    "ID": 331,
+    "TenSanPham": "Bu Lông M8-OBL",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L80",
+    "ViTri": "D2.6.3",
+    "SoLuongSanPham": 10
+  },
+  "332": {
+    "ID": 332,
+    "TenSanPham": "Bu Lông M8-OBL",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L25",
+    "ViTri": "D2.6.4",
+    "SoLuongSanPham": 52
+  },
+  "333": {
+    "ID": 333,
+    "TenSanPham": "Tán M8-TAN",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "M8",
+    "ViTri": "D2.6.5",
+    "SoLuongSanPham": 2985
+  },
+  "334": {
+    "ID": 334,
+    "TenSanPham": "Bu Lông M8-OMA",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L15",
+    "ViTri": "D2.7.1",
+    "SoLuongSanPham": 268
+  },
+  "335": {
+    "ID": 335,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.7.2",
+    "SoLuongSanPham": null
+  },
+  "336": {
+    "ID": 336,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.7.3",
+    "SoLuongSanPham": null
+  },
+  "337": {
+    "ID": 337,
+    "TenSanPham": "Bu Lông M8-LGC",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": "L10",
+    "ViTri": "D2.7.4",
+    "SoLuongSanPham": 413
+  },
+  "338": {
+    "ID": 338,
+    "TenSanPham": "Bu Lông M8",
+    "MaSanPham": "M8",
+    "ThongSoSanPham": null,
+    "ViTri": "D2.7.5",
+    "SoLuongSanPham": null
+  },
+  "339": {
+    "ID": 339,
+    "TenSanPham": "Bu lông M-10OLG",
+    "MaSanPham": "M10",
+    "ThongSoSanPham": "L20",
+    "ViTri": "D2.8.1",
+    "SoLuongSanPham": 10
+  },
+  "340": {
+    "ID": 340,
+    "TenSanPham": "Bu lông M10-OLG",
+    "MaSanPham": "M10",
+    "ThongSoSanPham": "L90",
+    "ViTri": "D2.8.2",
+    "SoLuongSanPham": 15
+  },
+  "341": {
+    "ID": 341,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.8.3",
+    "SoLuongSanPham": null
+  },
+  "342": {
+    "ID": 342,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.8.4",
+    "SoLuongSanPham": null
+  },
+  "343": {
+    "ID": 343,
+    "TenSanPham": "Tán M10-TAN",
+    "MaSanPham": "M10",
+    "ThongSoSanPham": "M10",
+    "ViTri": "D2.8.5",
+    "SoLuongSanPham": 167
+  },
+  "344": {
+    "ID": 344,
+    "TenSanPham": "Bu lông M10-OBL",
+    "MaSanPham": "M10",
+    "ThongSoSanPham": "L20",
+    "ViTri": "D2.9.1",
+    "SoLuongSanPham": 10
+  },
+  "345": {
+    "ID": 345,
+    "TenSanPham": "Bu lông M10-OBL",
+    "MaSanPham": "M10",
+    "ThongSoSanPham": "L40",
+    "ViTri": "D2.9.2",
+    "SoLuongSanPham": 43
+  },
+  "346": {
+    "ID": 346,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.9.3",
+    "SoLuongSanPham": null
+  },
+  "347": {
+    "ID": 347,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.9.4",
+    "SoLuongSanPham": null
+  },
+  "348": {
+    "ID": 348,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D2.9.5",
+    "SoLuongSanPham": null
+  },
+  "349": {
+    "ID": 349,
+    "TenSanPham": "Đầu nói hơi thẳng 4-4",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "4",
+    "ViTri": "D3.1.1",
+    "SoLuongSanPham": 10
+  },
+  "350": {
+    "ID": 350,
+    "TenSanPham": "Đầu nói hơi thẳng 8-8",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "8",
+    "ViTri": "D3.1.1",
+    "SoLuongSanPham": 26
+  },
+  "351": {
+    "ID": 351,
+    "TenSanPham": "Đầu nói hơi vuông 8-8",
+    "MaSanPham": "DNHV",
+    "ThongSoSanPham": "8",
+    "ViTri": "D3.1.1",
+    "SoLuongSanPham": 55
+  },
+  "352": {
+    "ID": 352,
+    "TenSanPham": "Đầu nối hơi thẳng 6-6",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "6",
+    "ViTri": "D3.1.1",
+    "SoLuongSanPham": 20
+  },
+  "353": {
+    "ID": 353,
+    "TenSanPham": "Đầu nối hỏi Tren 13",
+    "MaSanPham": "T.REN",
+    "ThongSoSanPham": "13",
+    "ViTri": "D3.1.2",
+    "SoLuongSanPham": 15
+  },
+  "354": {
+    "ID": 354,
+    "TenSanPham": "Đầu nối hơi T 8",
+    "MaSanPham": "DNH",
+    "ThongSoSanPham": "8",
+    "ViTri": "D3.1.2",
+    "SoLuongSanPham": 3
+  },
+  "355": {
+    "ID": 355,
+    "TenSanPham": "Đầu nối hơi thẳng 10-8",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "10.8",
+    "ViTri": "D3.2.1",
+    "SoLuongSanPham": 34
+  },
+  "356": {
+    "ID": 356,
+    "TenSanPham": "Đầu nối hơi T10",
+    "MaSanPham": "DNH",
+    "ThongSoSanPham": "10",
+    "ViTri": "D3.2.2",
+    "SoLuongSanPham": 64
+  },
+  "357": {
+    "ID": 357,
+    "TenSanPham": "Đầu nối hơi thẳng 10-10",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "10",
+    "ViTri": "D3.2.2",
+    "SoLuongSanPham": 22
+  },
+  "358": {
+    "ID": 358,
+    "TenSanPham": "Đầu nối hơi T12",
+    "MaSanPham": "DNH",
+    "ThongSoSanPham": "12",
+    "ViTri": "D3.5.1",
+    "SoLuongSanPham": 18
+  },
+  "359": {
+    "ID": 359,
+    "TenSanPham": "Đầu nối hơi thẳng 12-12",
+    "MaSanPham": "DNHT",
+    "ThongSoSanPham": "12",
+    "ViTri": "D3.5.1",
+    "SoLuongSanPham": 60
+  },
+  "360": {
+    "ID": 360,
+    "TenSanPham": "Rắc cắm hỏi đực",
+    "MaSanPham": "PP",
+    "ThongSoSanPham": null,
+    "ViTri": "D3.7.1",
+    "SoLuongSanPham": 66
+  },
+  "361": {
+    "ID": 361,
+    "TenSanPham": "Rắc cắm hỏi đực",
+    "MaSanPham": "PP",
+    "ThongSoSanPham": null,
+    "ViTri": "D3.7.1",
+    "SoLuongSanPham": 12
+  },
+  "362": {
+    "ID": 362,
+    "TenSanPham": "Rắc cắm hơi cái",
+    "MaSanPham": "SP",
+    "ThongSoSanPham": null,
+    "ViTri": "D3.7.1",
+    "SoLuongSanPham": 73
+  },
+  "363": {
+    "ID": 363,
+    "TenSanPham": "Rắc cắm hơi cái",
+    "MaSanPham": "SP",
+    "ThongSoSanPham": null,
+    "ViTri": "D3.7.1",
+    "SoLuongSanPham": 10
+  },
+  "364": {
+    "ID": 364,
+    "TenSanPham": "Cảm biến máy dập",
+    "MaSanPham": "SEN",
+    "ThongSoSanPham": "35",
+    "ViTri": "D4.1.1",
+    "SoLuongSanPham": 3
+  },
+  "365": {
+    "ID": 365,
+    "TenSanPham": "Vải ống nối gió",
+    "MaSanPham": "VNO",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.10.1",
+    "SoLuongSanPham": 1
+  },
+  "366": {
+    "ID": 366,
+    "TenSanPham": "Cục PU",
+    "MaSanPham": "D40",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.2.1",
+    "SoLuongSanPham": 15
+  },
+  "367": {
+    "ID": 367,
+    "TenSanPham": "Cục PU",
+    "MaSanPham": "D35",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.3.1",
+    "SoLuongSanPham": 20
+  },
+  "368": {
+    "ID": 368,
+    "TenSanPham": "Phụ kiện máy phay",
+    "MaSanPham": "PKP",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.4.1",
+    "SoLuongSanPham": 1
+  },
+  "369": {
+    "ID": 369,
+    "TenSanPham": "Hộp đồ nghề",
+    "MaSanPham": "HDN",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.5.1",
+    "SoLuongSanPham": 4
+  },
+  "370": {
+    "ID": 370,
+    "TenSanPham": "Dây đai",
+    "MaSanPham": "DD",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.6.1",
+    "SoLuongSanPham": 9
+  },
+  "371": {
+    "ID": 371,
+    "TenSanPham": null,
+    "MaSanPham": null,
+    "ThongSoSanPham": null,
+    "ViTri": "D4.7.1",
+    "SoLuongSanPham": null
+  },
+  "372": {
+    "ID": 372,
+    "TenSanPham": "Ti đỡ Panel",
+    "MaSanPham": "TIP",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.8.1",
+    "SoLuongSanPham": 9
+  },
+  "373": {
+    "ID": 373,
+    "TenSanPham": "Tấm silicon",
+    "MaSanPham": "SIL",
+    "ThongSoSanPham": null,
+    "ViTri": "D4.9.1",
+    "SoLuongSanPham": null
+  }
+}

@@ -1,0 +1,62 @@
+.main-header {
+    display: flex;
+    justify-content: space-between; /* Căn đều không gian giữa logo và menu */
+    align-items: center; /* Căn giữa các phần tử theo chiều dọc */
+    padding: 10px 20px; /* Thêm khoảng cách bên trong header */
+    background-color: rgb(175, 106, 239); /* Màu nền */
+    border-radius: 8px; /* Bo góc header */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Đổ bóng header để tạo độ nổi */
+    max-width: 1200px; /* Đặt chiều rộng tối đa cho header */
+    margin: 0 auto; /* Căn giữa header trên trang */
+}
+
+.main-nav img {
+    max-width: 50px; /* Điều chỉnh kích thước logo cho phù hợp */
+    height: auto;
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end; /* Căn menu về phía phải */
+    flex-grow: 1; /* Để logo ở bên trái và menu ở bên phải */
+    padding: 0;
+    margin: 0;
+}
+
+.main-nav ul li {
+    margin-left: 20px; /* Tạo khoảng cách giữa các mục */
+}
+
+.main-nav ul li a {
+    text-decoration: none; /* Loại bỏ gạch chân */
+    color: #000; /* Đổi màu chữ */
+    font-weight: bold;
+    padding: 5px 10px; /* Thêm khoảng cách bên trong */
+    transition: color 0.3s ease, background-color 0.3s ease; /* Hiệu ứng mượt */
+    border-radius: 4px; /* Bo góc cho liên kết */
+}
+
+.main-nav ul li a:hover {
+    color: #fff; /* Đổi màu chữ khi hover */
+    background-color: rgb(145, 85, 209); /* Thêm màu nền khi hover */
+}
+
+
+/* Responsive: Điều chỉnh header cho màn hình nhỏ */
+@media (max-width: 600px) {
+    .main-header {
+        flex-direction: column; /* Xếp logo và menu theo chiều dọc */
+        align-items: flex-start; /* Căn chỉnh các mục theo chiều dọc */
+        padding: 15px; /* Tăng khoảng cách padding cho header */
+    }
+
+    .main-nav ul {
+        width: 100%; /* Đảm bảo menu chiếm toàn bộ chiều rộng */
+        justify-content: space-between; /* Cách đều các mục theo chiều ngang */
+    }
+
+    .main-nav ul li {
+        margin: 5px 0; /* Thêm khoảng cách giữa các mục trong menu khi xếp dọc */
+    }
+}
