@@ -5,8 +5,8 @@ const path = require('path');
 
 // Cấu hình kết nối tới SQL Server
 const config = {
-    user: 'kana',
-    password: 'Az01252187352Za@',
+    user: 'kan',
+    password: 'Az01257352Za@',
     server: 'kanamiao.database.windows.net',
     database: 'warehousesasi',
     options: {
