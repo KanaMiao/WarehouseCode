@@ -42,6 +42,17 @@ Dự án này phát triển một hệ thống quản lý kho hàng, cho phép n
 - [npm](https://www.npmjs.com/) hoặc [yarn](https://yarnpkg.com/) để quản lý gói.
 
 ## Cài đặt
+1. **React**: 18.3.1
+2. **React DOM**: 18.3.1
+3. **TypeScript**: Latest (version unspecified but likely the latest installed)
+4. **Next.js**: 14.2.5
+5. **Tailwind CSS**: 3.4.1
+6. **Node.js**: Determined indirectly based on your npm and package configuration (unspecified version, but it should be compatible with your dependencies).
+7. **Webpack**: 5.94.0
+8. **Webpack-dev-server**: 5.1.0
+9. **Express**: 4.19.2
+10. **Hero Packages**:
+11. **React-Router-Dom**: 6.26.0
 
 ### Sử dụng Docker
 
